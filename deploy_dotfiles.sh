@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone git@github.com:johanberglind/dotfiles.git
+git clone https://github.com/johanberglind/dotfiles.git
 echo "dotfiles repo cloned!"
 cd dotfiles
 cp emacs ~/.emacs
